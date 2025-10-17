@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.Pane?>
+<?import javafx.scene.text.Font?>
+
+
+<Pane maxHeight="-Infinity" maxWidth="-Infinity" minHeight="-Infinity" minWidth="-Infinity" prefHeight="547.0" prefWidth="697.0" style="-fx-background-color: linear-gradient(to bottom right, #667eea, #764ba2);" xmlns="http://javafx.com/javafx/23.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <TextField layoutX="172.0" layoutY="88.0" prefHeight="40.0" prefWidth="349.0" style="-fx-background-color: white; -fx-background-radius: 15; -fx-effect: dropshadow(three-pass-box, rgba(0,0,0,0.1), 10, 0, 0, 5);;" text=" WELCOME TO OUR BANKING SYSTEM">
+         <font>
+            <Font name="System Bold" size="18.0" />
+         </font>
+      </TextField>
+      <TextField layoutX="194.0" layoutY="204.0" prefHeight="25.0" prefWidth="310.0" promptText="👲USER NAME" style="-fx-background-radius: 8; -fx-border-radius: 8; -fx-border-color: #bdc3c7; -fx-background-color: #ecf0f1;;" />
+      <TextField layoutX="192.0" layoutY="248.0" prefHeight="25.0" prefWidth="310.0" promptText="🔐PASSWORD" style="-fx-background-radius: 8; -fx-border-radius: 8; -fx-border-color: #bdc3c7; -fx-background-color: #ecf0f1;;" />
+      <Button layoutX="316.0" layoutY="305.0" mnemonicParsing="false" style="-fx-background-color: #3498db; -fx-text-fill: white; -fx-background-radius: 8; -fx-font-weight: bold; -fx-font-size: 14px;; -fx-text-fill: white;" text="LOGIN" textAlignment="CENTER">
+         <font>
+            <Font name="Arial" size="14.0" />
+         </font>
+      </Button>
+      <Button layoutX="276.0" layoutY="352.0" mnemonicParsing="false" prefHeight="31.0" prefWidth="145.0" style="-fx-background-color: #2ecc71; -fx-text-fill: white; -fx-background-radius: 8; -fx-font-weight: bold; -fx-font-size: 14px;; -fx-border-color: #667eea; -fx-text-fill: #667eea;" text="OPEN ACCOUNT" textFill="#1e1b1b">
+         <font>
+            <Font size="13.0" />
+         </font>
+      </Button>
+   </children>
+</Pane>

@@ -1,0 +1,24 @@
+{
+    "java.project.referencedLibraries": [
+        "javafx-sdk-21\\javafx-sdk-21.0.4\\lib\\javafx.base.jar",
+        "javafx-sdk-21\\javafx-sdk-21.0.4\\lib\\javafx.controls.jar",
+        "javafx-sdk-21\\javafx-sdk-21.0.4\\lib\\javafx.fxml.jar",
+        "javafx-sdk-21\\javafx-sdk-21.0.4\\lib\\javafx.graphics.jar",
+        "javafx-sdk-21\\javafx-sdk-21.0.4\\lib\\javafx.media.jar",
+        "javafx-sdk-21\\javafx-sdk-21.0.4\\lib\\javafx.swing.jar",
+        "javafx-sdk-21\\javafx-sdk-21.0.4\\lib\\javafx.web.jar",
+        "javafx-sdk-21\\javafx-sdk-21.0.4\\lib\\javafx-swt.jar",
+        "c:\\Users\\GOD-BEING\\Documents\\CSE YEAR 2 SEMESTER 1\\OOAD\\Assignment\\javafx-sdk-21\\javafx-sdk-21.0.4\\lib\\javafx.controls.jar",
+        "c:\\Users\\GOD-BEING\\Documents\\CSE YEAR 2 SEMESTER 1\\OOAD\\Assignment\\javafx-sdk-21\\javafx-sdk-21.0.4\\lib\\javafx.base.jar",
+        "c:\\Users\\GOD-BEING\\Documents\\CSE YEAR 2 SEMESTER 1\\OOAD\\Assignment\\javafx-sdk-21\\javafx-sdk-21.0.4\\lib\\javafx-swt.jar",
+        "c:\\Users\\GOD-BEING\\Documents\\CSE YEAR 2 SEMESTER 1\\OOAD\\Assignment\\javafx-sdk-21\\javafx-sdk-21.0.4\\lib\\javafx.media.jar",
+        "c:\\Users\\GOD-BEING\\Documents\\CSE YEAR 2 SEMESTER 1\\OOAD\\Assignment\\javafx-sdk-21\\javafx-sdk-21.0.4\\lib\\javafx.graphics.jar",
+        "c:\\Users\\GOD-BEING\\Documents\\CSE YEAR 2 SEMESTER 1\\OOAD\\Assignment\\javafx-sdk-21\\javafx-sdk-21.0.4\\lib\\javafx.swing.jar",
+        "c:\\Users\\GOD-BEING\\Documents\\CSE YEAR 2 SEMESTER 1\\OOAD\\Assignment\\javafx-sdk-21\\javafx-sdk-21.0.4\\lib\\javafx.web.jar",
+        "c:\\Users\\GOD-BEING\\Documents\\CSE YEAR 2 SEMESTER 1\\OOAD\\Assignment\\javafx-sdk-21\\javafx-sdk-21.0.4\\lib\\javafx.fxml.jar"
+    ],
+    "java.project.sourcePaths": [
+        "GUI",
+        "javafx-sdk-21"
+    ]
+}
